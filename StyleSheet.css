@@ -1,0 +1,42 @@
+
+
+/* 
+text allignment
+background colour
+font size
+font color 
+padding
+bottom, right, letf, top 
+float 
+colums 
+
+*/
+
+body {
+
+
+}
+
+nav {
+    background-color: red;
+    padding: 15 0;
+
+}
+
+header {
+    background-color: blue;
+    padding: 15px;
+
+}
+
+p {
+    color: blueviolet;
+    background-color: aqua;
+    font: 15px;
+}
+
+H1 {
+    color: blue;
+    background-color: aqua;
+    font: 30px;
+}
